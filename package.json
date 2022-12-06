@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://tomader.github.io/Group-h/build",
   "dependencies": {
-    "gh-pages": "^0.1.0",
+    "gh-pages": "^4.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-mdl": "^1.11.0",
